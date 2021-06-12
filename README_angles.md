@@ -1,13 +1,13 @@
 # TFG-2020-2021
 
-Aquest es el plugin que he desenvolupat per al meu treball de final de grau (TFG). Permet transformat cursos en format edCrumble a cursos en format Moodle. L'únic que es requereix es tenir acces a un servidor amb PHP i executar el plugin dins d'aquest. Hi ha una web simple per poder interactuar amb el plugin.
+This is the plugin I have developed for my final thesis (TFG). It allows to transform edCrumble courses to Moodle courses. The only thing that is required is to have access to a server with PHP and run the plugin inside it. There is a simple web to interact with the plugin.
 
-Autor del treball: German Pedrero Giner.
+Author of the project: German Pedrero Giner.
 
-Directora del treball: Laia Albó.
+Director of the project: Laia Albó.
 
-Contexte: Aquest treball s'ha desenvolupat en el context d'investigació del grup de recerca TIDE de la UPF.
+Context: This project has been developed in the research context of the TIDE research group at UPF.
 
-Adreça web del grup TIDE: https://www.upf.edu/web/tide
+Web address of the TIDE group: https://www.upf.edu/web/tide
 
-Adreça web d'edCrumble: https://ilde2.upf.edu/edcrumble
+edCrumble web address: https://ilde2.upf.edu/edcrumble
